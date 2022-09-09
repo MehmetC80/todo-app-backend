@@ -9,7 +9,7 @@
     "start": "node dist/src/index.js"
   },
   "author": "Mehmet Cetinkaya",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@fastify/cors": "^8.1.0",
     "@fastify/jwt": "^6.3.2",
